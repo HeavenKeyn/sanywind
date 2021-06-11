@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("小测试。")
+	fmt.Println("爱然v1.0.0")
 }
