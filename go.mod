@@ -1,1 +1,1 @@
-module "github.com/HeavenKeyn/sanywind"
+module github.com/HeavenKeyn/sanywind
